@@ -1,0 +1,25 @@
+{
+  "name": "archivus-lexicanum",
+  "version": "1.0.0",
+  "description": "Archivus Lexicanum is a Discord chatbot inspired by the rich lore and intricate universe of Warhammer 40k, designed to serve as a boundless digital compendium for enthusiasts and scholars of the Imperium. Shedding the physical form of a servitor, it embodies the omniscient archives of the Imperium.",
+  "main": "src/index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "openai": "^4.29.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averyscottnorris/archivus-lexicanum.git#main"
+  },
+  "type": "module",
+  "author": "Avery Norris",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/averyscottnorris/archivus-lexicanum/issues"
+  },
+  "homepage": "https://github.com/averyscottnorris/archivus-lexicanum/tree/main#readme"
+}
